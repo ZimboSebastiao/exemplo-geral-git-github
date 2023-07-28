@@ -16,3 +16,10 @@
 - repositório
 
 --- 
+
+## Lista de Exemplo
+
+1. Versionamento
+2. Git Github
+3. Visual Studio Code
+
